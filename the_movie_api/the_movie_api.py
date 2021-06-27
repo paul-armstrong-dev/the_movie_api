@@ -3,8 +3,8 @@ import os
 import requests
 from loguru import logger
 
-from utils.regex_utils import extract_year_and_movie_name
-from utils.search_utils import get_closest_matched_field_in_dicts
+from .utils.regex_utils import extract_year_and_movie_name
+from .utils.search_utils import get_closest_matched_field_in_dicts
 
 
 
