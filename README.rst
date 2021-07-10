@@ -16,7 +16,8 @@ the_movie_api
 
 
 
-Short python class to interact with the movies API
+Short python class to interact with the movies API: 
+
 * API key from registering
 * Session ID from https://developers.themoviedb.org/3/authentication/how-do-i-generate-a-session-id
 * https://developers.themoviedb.org
